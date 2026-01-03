@@ -1,0 +1,82 @@
+Jay Brahmani
+Tools & Hardware
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jay Brahmani Tools & Hardware</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { margin:0; font-family:Arial,sans-serif; background:#f4f4f4; }
+    header { background:#1f2937; color:white; padding:25px; text-align:center; }
+    section { background:white; margin:12px; padding:18px; border-radius:8px; }
+    h2 { color:#1f2937; }
+    .buttons a {
+      display:inline-block; margin:6px 6px 0 0; padding:12px 16px;
+      color:white; text-decoration:none; border-radius:6px; font-weight:bold;
+    }
+    .wa{background:#16a34a;} .call{background:#2563eb;} .map{background:#dc2626;}
+    .gallery img {
+      width:100%; max-width:300px; margin:8px; border-radius:8px;
+    }
+    footer { text-align:center; font-size:13px; color:#666; padding:10px; }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Jay Brahmani</h1>
+  <p>Tools & Hardware</p>
+  <p>Your Trusted Hardware Partner</p>
+</header>
+
+<section>
+  <p>Quality <b>pipes, all types of tools, and thinner</b> at best prices.</p>
+  <div class="buttons">
+    <a class="wa" href="https://wa.me/91XXXXXXXXXX">Order on WhatsApp</a>
+    <a class="call" href="tel:XXXXXXXXXX">Call Now</a>
+    <a class="map" href="YOUR_GOOGLE_MAP_LINK">Get Directions</a>
+  </div>
+</section>
+
+<section>
+  <h2>Our Products</h2>
+  <ul>
+    <li>PVC, CPVC, UPVC, GI Pipes</li>
+    <li>All types of Hand & Power Tools</li>
+    <li>Paint & Industrial Thinner</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Product Gallery</h2>
+  <div class="gallery">
+    <img src="pipe.jpg">
+    <img src="tools.jpg">
+    <img src="thinner.jpg">
+  </div>
+  <p><i>(Add your real product photos here)</i></p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>
+    📞 XXXXXXXXXX<br>
+    📍 Your shop address<br>
+    🕒 9:00 AM – 9:00 PM
+  </p>
+</section>
+
+<footer>
+  © Jay Brahmani Tools & Hardware
+</footer>
+
+</body>
+</html>
+
+https://yourusername.github.io/jay-brahmani-hardware
+
+upi://pay?pa=YOURUPIID&pn
+
